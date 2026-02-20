@@ -59,3 +59,19 @@ Details:
 ## Suggested use
 
 Use these tables to select wells for drilling and completion studies, justify data availability in SPE papers, and avoid ad hoc file hunting.
+
+
+## Citation
+
+If you use this coverage audit in research, please cite:
+
+Appalla, Tejaswy (2026). Volve Content Coverage: A petroleum data availability audit of the Equinor Volve public dataset. GitHub research artifact. https://github.com/985185/volve-content-coverage
+
+
+## References
+
+Equinor. Volve Field Data Village (public dataset release).  
+https://www.equinor.com/energy/volve-data-sharing
+
+Metadata inventory used in this project:  
+https://github.com/985185/volve-metadata-index
