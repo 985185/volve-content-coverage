@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "volve-content-coverage: Petroleum data coverage audit of the Equinor Volve dataset"
+message: "If you use this repository in your research, please cite it as below."
+type: software
+authors:
+  - family-names: Appalla
+    given-names: Tejaswy
+repository-code: "https://github.com/985185/volve-content-coverage"
+date-released: 2026-02-20
+version: 1.0
+license: MIT
