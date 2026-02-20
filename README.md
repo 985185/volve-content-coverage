@@ -2,6 +2,8 @@
 [![Reproducible](https://img.shields.io/badge/Method-Reproducible-green)](quickstart.md)
 [![Metadata Based](https://img.shields.io/badge/Input-Frozen_Metadata_Catalog-orange)](https://github.com/985185/volve-metadata-index)
 [![Petroleum Engineering](https://img.shields.io/badge/Domain-Petroleum_Engineering-red)](#)
+[![Wells Covered](https://img.shields.io/badge/Wells-27-lightgrey)](#)
+[![Categories Identified](https://img.shields.io/badge/Data_Categories-10-lightgrey)](#)
 # volve-content-coverage
 
 Petroleum-engineer-friendly coverage map for the public Equinor Volve dataset.
